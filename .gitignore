@@ -1,0 +1,11 @@
+/configuration.php
+/cache/
+/tmp/
+/logs/
+/nbproject/
+/images/
+/dumper/
+/bin/
+/cli/
+/webstat/
+/.idea/
